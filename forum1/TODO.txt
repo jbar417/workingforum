@@ -1,0 +1,8 @@
+Create:
+X timestamp for data
+    display timestamp for data
+X organize posts in ascending order
+    add ("ascending order") to the top of the posts page. 
+query/search engine
+ability to archive data, and remove it from the posts page
+attempt "threads." with multiple data models. 
